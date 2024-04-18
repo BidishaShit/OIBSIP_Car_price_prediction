@@ -12,10 +12,10 @@ https://www.kaggle.com/datasets/vijayaadithyanvg/car-price-predictionused-cars
 For car price prediction, Random Forest Regressor and Decision Tree Regressor is used. The choice of algorithm depends on the complexity of the dataset and the desired prediction accuracy.
 
 # Evaluation
-The performance of the trained model is evaluated using metrics such as mean squared error (MSE), and R-squared score. Additionally, visualizations such as scatter plots and residual plots can provide insights into the model's predictive performance.
+The performance of the trained model is evaluated using metrics such as mean squared error (MSE), and R-squared score. Additionally, visualizations such as regression plot provide insights into the model's predictive performance.
 
 # Conclusion
-Summarize the key findings and insights obtained from the analysis, including the model's accuracy, limitations, and potential areas for improvement. Discuss the practical implications of the car price prediction model and its applications in the automotive industry.
+Random Forest Regressor was perfect! As less MSE and more  R2 Score comparatively.
 
 # Future Work
 Identify potential areas for further research and improvement, such as collecting more comprehensive datasets, exploring advanced machine learning techniques, and integrating external factors (e.g., economic indicators, market trends) into the prediction model.
